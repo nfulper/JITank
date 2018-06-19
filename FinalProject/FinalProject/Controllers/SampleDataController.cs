@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FinalProject.Controllers
+namespace JITank.Controllers
 {
     [Route("api/[controller]")]
     public class SampleDataController : Controller

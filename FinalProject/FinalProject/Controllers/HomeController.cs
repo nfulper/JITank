@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FinalProject.Controllers
+namespace JITank.Controllers
 {
     public class HomeController : Controller
     {
